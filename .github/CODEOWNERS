@@ -1,0 +1,10 @@
+# Global owner — reviews required on all PRs
+* @omen18
+
+# Auth and database — extra scrutiny
+/src/lib/auth.ts @omen18
+/src/lib/supabase.ts @omen18
+/supabase/ @omen18
+
+# CI / workflows
+/.github/workflows/ @omen18
